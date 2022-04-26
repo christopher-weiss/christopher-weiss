@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @christopher-weiss
+- 👀 I’m interested in sending structured data between applications (JMS, Kafka, REST, GraphQL, etc.)
+- 🌱 I’m currently learning Go(lang)
